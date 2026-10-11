@@ -26,8 +26,4 @@ Keyword + script-based triage and templates need no network. Gemma runs locally 
 - Sample complaints, keyword lists and reply templates are my own synthetic data.
 - Code was written with AI assistance (Claude).
 
-## PPP idea
 
-Metro owns the data; a private partner maintains the app per station subscription.
-
-- Built before/during the ride: <jo sach ho likho, jaise "starter app.py and sample data prepared before boarding; Gemma integration and fixes done on the ride">
