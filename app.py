@@ -1,7 +1,7 @@
 import streamlit as st, sqlite3, re, socket, requests, pandas as pd
 
 DB = "complaints.db"
-MODEL = "gemma3:4b"  # ollama list wala naam
+MODEL = "gemma3:4b"  
 LANGN = {"en": "English", "hi": "Hindi", "gu": "Gujarati", "gujlish": "English"}
 
 KW = {
